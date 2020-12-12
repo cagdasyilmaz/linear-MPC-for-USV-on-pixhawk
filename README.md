@@ -15,14 +15,23 @@ If you use the above embedded C++/C code, please consider citing below conferenc
 **Conference Paper**
 @INPROCEEDINGS{Yilmaz2018, 
 	author    ={\.{I}. \c{C}. Yılmaz and K. Ahıska and M. K. Leblebicioğlu}, 
+	
 	booktitle ={2018 15th International Conference on Control, Automation, Robotics and Vision (ICARCV)}, 
+	
 	title     ={Parallel Docking Problem for Unmanned Surface Vehicles}, 
+	
 	year      ={2018}, 
+	
 	volume    ={}, 
+	
 	number    ={}, 
+	
 	pages     ={744-749},  
+	
 	doi       ={10.1109/ICARCV.2018.8581211}, 
+	
 	ISSN	    ={}, 
+	
 	month	    ={Nov},}
 
 **Thesis Study**
