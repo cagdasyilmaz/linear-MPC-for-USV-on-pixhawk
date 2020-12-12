@@ -26,7 +26,7 @@ If you use the above embedded C++/C code, please consider citing below conferenc
 	ISSN	  ={}, 
 	month	  ={Nov},}
 
-**The Master Thesis*
+**The Master Thesis**
 
 	@mastersthesis{Yilmaz2019,
   	author       = {\.{I}. \c{C}. Yılmaz}, 
