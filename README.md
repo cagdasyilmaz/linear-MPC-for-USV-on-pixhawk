@@ -37,6 +37,7 @@ If you use the above embedded C++/C code, please consider citing below conferenc
 	address      = {Ankara, Turkey}}
 
 **Thesis Link**: http://etd.lib.metu.edu.tr/upload/12623149/index.pdf
+
 **Experimental Validation**: https://www.dropbox.com/s/vy2yffaeff3f168/Experiment.mp4?dl=0
 
 
