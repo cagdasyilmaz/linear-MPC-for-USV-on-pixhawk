@@ -12,7 +12,7 @@ The USV (unmanned surface vehicle or small scale tugboat) used in the thesis stu
 
 If you use the above embedded C++/C code, please consider citing below conference article or thesis study. Detailed information about guidance and linear model preditictive controller algorithms can be found in them.
 
-**Conference Paper**
+**The Conference Paper**
 
 	@INPROCEEDINGS{Yilmaz2018, 
 	author    ={\.{I}. \c{C}. Yılmaz and K. Ahıska and M. K. Leblebicioğlu}, 
@@ -26,7 +26,7 @@ If you use the above embedded C++/C code, please consider citing below conferenc
 	ISSN	  ={}, 
 	month	  ={Nov},}
 
-**Thesis Study**
+**The Master Thesis*
 
 	@mastersthesis{Yilmaz2019,
   	author       = {\.{I}. \c{C}. Yılmaz}, 
