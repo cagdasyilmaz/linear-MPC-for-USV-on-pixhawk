@@ -1,0 +1,33 @@
+Generic boat mixer (Pacific Islander TugBoat)
+===========================
+
+Designed for Pacific Islander TugBoat
+
+This file defines mixers suitable for controlling a Pacific Islander TugBoat using
+PX4FMU. The configuration assumes the left motor speed control to output 0 and  
+the right motor speed control to output 1. Output 2 and 3 is assumed to be unused.
+
+See the README for more information on the scaler format.
+
+
+Output 0
+---------------------------------------
+M: 1
+S: 0 0  10000  10000   0 -10000  10000
+
+Steering mixer using roll on output 1
+---------------------------------------
+M: 1
+S: 0 1  10000   10000  0 -10000  10000
+
+
+Output 2
+---------------------------------------
+This mixer is empty.
+Z:
+
+
+Output 3
+---------------------------------------
+This mixer is empty.
+Z:
